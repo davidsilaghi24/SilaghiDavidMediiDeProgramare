@@ -12,7 +12,7 @@ public partial class App : Application
         {
             if (database == null)
             {
-                database = new ShoppingListDatabase(
+                database = new ShoppingListDatabase(new RestService());
                     Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), 
                     "ShoppingList.db3"));
             }
