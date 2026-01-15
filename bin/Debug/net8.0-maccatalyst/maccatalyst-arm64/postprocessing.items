@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="SilaghiDavidLab7.app/Contents/MacOS/SilaghiDavidLab7">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>SilaghiDavidLab7.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>SilaghiDavidLab7.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/davidsilaghi/training/SilaghiDavidLab7/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>SilaghiDavidLab7.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/davidsilaghi/training/SilaghiDavidLab7</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
