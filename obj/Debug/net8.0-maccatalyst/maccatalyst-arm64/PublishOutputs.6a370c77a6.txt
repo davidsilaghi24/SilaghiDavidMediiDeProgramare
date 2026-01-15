@@ -49,6 +49,10 @@
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/Microsoft.Maui.dll
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/Microsoft.Maui.Essentials.dll
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/Microsoft.Maui.Graphics.dll
+/Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/SQLite-net.dll
+/Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/SQLitePCLRaw.batteries_v2.dll
+/Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/SQLitePCLRaw.core.dll
+/Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/SQLitePCLRaw.provider.e_sqlite3.dll
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/SilaghiDavidLab7.dll
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/Microsoft.CSharp.dll
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/Microsoft.VisualBasic.Core.dll
@@ -221,6 +225,7 @@
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/Microsoft.MacCatalyst.dll
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/SilaghiDavidLab7.pdb
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/Microsoft.MacCatalyst.pdb
+/Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/libe_sqlite3.dylib
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/aot-instances.aotdata.arm64
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/System.Private.CoreLib.aotdata.arm64
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MacOS//SilaghiDavidLab7

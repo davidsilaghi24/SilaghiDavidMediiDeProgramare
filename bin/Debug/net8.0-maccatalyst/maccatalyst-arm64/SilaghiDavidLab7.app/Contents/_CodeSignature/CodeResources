@@ -209,18 +209,46 @@
 			sReTGmWXBKLxRekVMrsfEJhQ454jCQxzIuIZTk39teo=
 			</data>
 		</dict>
+		<key>MonoBundle/SQLite-net.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/0h0FMSssyqe6OCqk97walP3tX35PS56JgVOGN+Fcj4=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLitePCLRaw.batteries_v2.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kylPuIiR6IKN27UfH1K8VCl9n9pSQbikaTX+p10gtqM=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLitePCLRaw.core.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l57cyQVqwG1fUrEtm3czsSF5FKtQvxI6sxLgJ+esV6U=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLitePCLRaw.provider.e_sqlite3.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RwA/P9Qppbadb8bP0Wv82XkQMhcB5eeoiQYWQ8gdCGU=
+			</data>
+		</dict>
 		<key>MonoBundle/SilaghiDavidLab7.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GE8s1yk/Ko/zCIUJu4mZxEIsMAkso8QPE6ejdB8z4LI=
+			ji4UZJh/Z/9kMNutAJqXxC8h7I29g5abiSF8rlOSoHo=
 			</data>
 		</dict>
 		<key>MonoBundle/SilaghiDavidLab7.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ma1wZmQPFe9eZRLVcfkIGlavfpGJ8tV8chtv50QV5jg=
+			+FmcvF3ZA1OZ2OjsHOkIGvSp+iYDkuPbIP1n7ltSYMk=
 			</data>
 		</dict>
 		<key>MonoBundle/System.AppContext.dll</key>
@@ -1488,6 +1516,13 @@
 			<key>hash2</key>
 			<data>
 			mB+rfjUPmBvG4t0cXauTh5ZjZQC3ENXzkZ9SGH2KtCQ=
+			</data>
+		</dict>
+		<key>MonoBundle/libe_sqlite3.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MNvyjg5Gho2oyULM8BYo8ASm1lRyl4CJuG5bb4sUr5k=
 			</data>
 		</dict>
 		<key>MonoBundle/ms/Microsoft.Maui.Controls.resources.dll</key>
