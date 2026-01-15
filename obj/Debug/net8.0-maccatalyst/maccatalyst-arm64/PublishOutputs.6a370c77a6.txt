@@ -49,7 +49,9 @@
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/Microsoft.Maui.dll
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/Microsoft.Maui.Essentials.dll
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/Microsoft.Maui.Graphics.dll
+/Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/Newtonsoft.Json.dll
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/SQLite-net.dll
+/Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/SQLiteNetExtensions.dll
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/SQLitePCLRaw.batteries_v2.dll
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/SQLitePCLRaw.core.dll
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../SilaghiDavidLab7.app/Contents/MonoBundle/SQLitePCLRaw.provider.e_sqlite3.dll

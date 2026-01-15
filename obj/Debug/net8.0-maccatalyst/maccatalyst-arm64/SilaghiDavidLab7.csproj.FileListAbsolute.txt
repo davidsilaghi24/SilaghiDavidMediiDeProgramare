@@ -307,6 +307,8 @@
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/SQLitePCLRaw.provider.e_sqlite3.dll
 /Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/libe_sqlite3.dylib
 /Users/davidsilaghi/training/SilaghiDavidLab7/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/SilaghiDavidLab7.sourcelink.json
+/Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Newtonsoft.Json.dll
+/Users/davidsilaghi/training/SilaghiDavidLab7/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/SQLiteNetExtensions.dll
 /Users/davidsilaghi/training/SilaghiDavidLab7/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/SQLite-net.stamp
 /Users/davidsilaghi/training/SilaghiDavidLab7/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/SQLitePCLRaw.batteries_v2.stamp
 /Users/davidsilaghi/training/SilaghiDavidLab7/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/resourcestamps/SQLitePCLRaw.core.stamp

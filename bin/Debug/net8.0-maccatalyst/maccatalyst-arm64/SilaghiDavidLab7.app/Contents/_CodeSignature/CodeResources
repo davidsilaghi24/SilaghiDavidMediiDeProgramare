@@ -209,11 +209,25 @@
 			sReTGmWXBKLxRekVMrsfEJhQ454jCQxzIuIZTk39teo=
 			</data>
 		</dict>
+		<key>MonoBundle/Newtonsoft.Json.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XZbuUbKv9ZIDnuvC7SA9n1X935wIgvs00/DgeDdJVKU=
+			</data>
+		</dict>
 		<key>MonoBundle/SQLite-net.dll</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			/0h0FMSssyqe6OCqk97walP3tX35PS56JgVOGN+Fcj4=
+			</data>
+		</dict>
+		<key>MonoBundle/SQLiteNetExtensions.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ykjaxNSocRsd7GT56sejOvXLSUHDSn4rbArYg/K3MoY=
 			</data>
 		</dict>
 		<key>MonoBundle/SQLitePCLRaw.batteries_v2.dll</key>
@@ -241,14 +255,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ji4UZJh/Z/9kMNutAJqXxC8h7I29g5abiSF8rlOSoHo=
+			zTEPmRpjjtHlx7rhIlbpvZDAOBlTXOq5BW+rDsT+Kz4=
 			</data>
 		</dict>
 		<key>MonoBundle/SilaghiDavidLab7.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+FmcvF3ZA1OZ2OjsHOkIGvSp+iYDkuPbIP1n7ltSYMk=
+			UjfVWcRnuLmzsaawg/eN4x7BGbjH7I/qxv9uLa6i3dw=
 			</data>
 		</dict>
 		<key>MonoBundle/System.AppContext.dll</key>
